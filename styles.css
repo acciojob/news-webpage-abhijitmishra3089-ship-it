@@ -4,23 +4,22 @@ body{
 .header{
 	background-color:#011e29;
 	color:white;
-	/* height:60px; */
-	/* align-content:center; */
 	text-align:center;
-	/* padding:10px; */
+	padding:10px;
 }
 
 .letest-news-section{
-	height:200px;
+	/* height:200px; */
 	width:250px;
 	border:2px solid transparent;
 	background-color:white;
-	border-radius:15px;
-	align-content:center;
-	text-align:center;
 	display:inline-grid;
+	border-radius:15px;
+	/* align-content:center;
+	text-align:center;
 	margin-top:10px;
-	margin-left:25px;
+	/* margin-left:25px;  */
+	padding:12px;
 }
 .main-article-section{
 	height:250px;
@@ -35,7 +34,7 @@ body{
 }
 .pictorial-news-section{
 	height:400px;
-	width:200px;
+	width:250px;
 	border:2px solid transparent;
 	background-color:white;
 	border-radius:15px;
@@ -43,5 +42,5 @@ body{
 	/* align-content:center; */
 	gap:3px;
 	text-align:center;
-	padding:10px;
+	padding:20px;
 }
