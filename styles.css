@@ -10,7 +10,7 @@ body{
 
 .letest-news-section{
 	/* height:200px; */
-	width:250px;
+	width:25%;
 	/* border:2px solid transparent; */
 	background-color:white;
 	display:inline-grid;
@@ -19,7 +19,7 @@ body{
 	text-align:center;
 	margin-top:10px;
 	/* margin-left:25px;  */
-	padding:12px;
+	padding:15px;
 }
 .main-article-section{
 	height:250px;
